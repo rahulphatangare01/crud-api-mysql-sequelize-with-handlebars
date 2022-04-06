@@ -1,0 +1,39 @@
+
+.container{
+    background-color: white;
+    border-style: outset;
+     width: 500px;
+     height: fit-content;
+    
+     padding-bottom: 40px;
+     margin-top: 40px;
+}
+
+label{
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-style: calc();
+}
+input{
+  width: 400px;
+  height: 40px;
+  
+}
+h2{
+  padding-top: 15px;
+  color: green;
+
+  
+}
+p{ padding-top: 25px;}
+div a{ padding-top: 25px;
+margin-left: 250px;
+}
+.fas:hover{
+  background:aqua;
+}
+i:hover{
+  background-color: aqua;
+}
